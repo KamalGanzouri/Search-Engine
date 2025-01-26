@@ -1,5 +1,3 @@
-Based on the provided code, here is a README.md for your Search Engine project:
-
 ```markdown
 # Search Engine
 
